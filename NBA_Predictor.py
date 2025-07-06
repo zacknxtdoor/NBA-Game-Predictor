@@ -1,5 +1,5 @@
 # Zack Abdirashid
-# NBA Predictor that uses scikit-learn to predit from the nba_games.csv sheet of games from 2015-2022
+# NBA Predictor that uses scikit-learn to predict from the nba_games.csv sheet of games from 2015-2022
 
 import pandas as pd
 
